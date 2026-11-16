@@ -1,0 +1,41 @@
+class EmergencyAlert extends Thread {
+    public void run() {
+        System.out.println(getName() + " - Priority: " + getPriority());
+        System.out.println("Critical patient alert is being monitored...");
+    }
+}
+
+class VitalMonitor extends Thread {
+    public void run() {
+        System.out.println(getName() + " - Priority: " + getPriority());
+        System.out.println("Checking patient vital signs...");
+    }
+}
+
+class ReportGenerator extends Thread {
+    public void run() {
+        System.out.println(getName() + " - Priority: " + getPriority());
+        System.out.println("Generating routine reports...");
+    }
+}
+
+public class HospitalMonitoring {
+    public static void main(String[] args) {
+
+        EmergencyAlert t1 = new EmergencyAlert();
+        VitalMonitor t2 = new VitalMonitor();
+        ReportGenerator t3 = new ReportGenerator();
+
+        t1.setName("EmergencyAlert");
+        t2.setName("VitalMonitor");
+        t3.setName("ReportGenerator");
+
+        t1.setPriority(Thread.MAX_PRIORITY);  // 10
+        t2.setPriority(Thread.NORM_PRIORITY); // 5
+        t3.setPriority(Thread.MIN_PRIORITY);  // 1
+
+        t1.start();
+        t2.start();
+        t3.start();
+    }
+}

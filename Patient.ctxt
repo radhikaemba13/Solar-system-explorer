@@ -1,0 +1,11 @@
+#BlueJ class context
+#Fri Aug 14 09:49:46 IST 2026
+comment0.target=Patient
+comment1.params=patientName consultationFee
+comment1.target=Patient(java.lang.String, double)
+comment2.params=fee
+comment2.target=double calculateFinalAmount(double)
+comment3.target=void display()
+comment4.params=args
+comment4.target=void main(java.lang.String[])
+numComments=5

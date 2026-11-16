@@ -1,0 +1,11 @@
+#BlueJ class context
+#Thu Sep 24 22:19:07 IST 2026
+comment0.target=CourseManagement
+comment1.target=CourseManagement()
+comment2.params=e
+comment2.target=void actionPerformed(java.awt.event.ActionEvent)
+comment3.params=e
+comment3.target=void actionPerformed(java.awt.event.ActionEvent)
+comment4.params=args
+comment4.target=void main(java.lang.String[])
+numComments=5

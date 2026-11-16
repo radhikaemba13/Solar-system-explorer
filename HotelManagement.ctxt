@@ -1,0 +1,15 @@
+#BlueJ class context
+#Tue Oct 27 09:25:54 IST 2026
+comment0.target=HotelManagement
+comment1.params=args
+comment1.target=void main(java.lang.String[])
+comment2.target=void addRoom()
+comment3.target=void viewRooms()
+comment4.target=java.time.LocalDate[] getDates()
+comment5.params=roomNo checkIn checkOut
+comment5.target=boolean isAvailable(int, java.time.LocalDate, java.time.LocalDate)
+comment6.target=void checkAvailability()
+comment7.target=void bookRoom()
+comment8.target=void viewBookings()
+comment9.target=void cancelBooking()
+numComments=10

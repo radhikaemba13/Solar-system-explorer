@@ -1,0 +1,9 @@
+#BlueJ class context
+#Fri Jul 31 09:03:09 IST 2026
+comment0.target=student2
+comment1.params=name age
+comment1.target=Student(java.lang.String, int)
+comment2.target=void display()
+comment3.params=args
+comment3.target=void main(java.lang.String[])
+numComments=4

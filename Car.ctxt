@@ -1,0 +1,12 @@
+#BlueJ class context
+#Fri Aug 07 09:05:08 IST 2026
+comment0.target=Car
+comment1.target=Car()
+comment2.params=model
+comment2.target=Car(java.lang.String)
+comment3.params=model price
+comment3.target=Car(java.lang.String, int)
+comment4.target=void display()
+comment5.params=args
+comment5.target=void main(java.lang.String[])
+numComments=6

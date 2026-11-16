@@ -1,0 +1,10 @@
+#BlueJ class context
+#Fri Aug 21 09:23:13 IST 2026
+comment0.target=ProductDemo
+comment1.params=productId name price
+comment1.target=Product(int, java.lang.String, double)
+comment2.target=double calculateDiscount()
+comment3.target=void display()
+comment4.params=args
+comment4.target=void main(java.lang.String[])
+numComments=5

@@ -1,0 +1,7 @@
+#BlueJ class context
+#Fri Jul 31 08:59:17 IST 2026
+comment0.target=Rectangle
+comment1.target=void calculateAndDisplayArea()
+comment2.params=args
+comment2.target=void main(java.lang.String[])
+numComments=3

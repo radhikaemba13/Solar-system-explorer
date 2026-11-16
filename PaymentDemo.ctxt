@@ -1,0 +1,8 @@
+#BlueJ class context
+#Fri Aug 21 09:16:59 IST 2026
+comment0.target=PaymentDemo
+comment1.params=amount
+comment1.target=void makePayment(double)
+comment2.params=args
+comment2.target=void main(java.lang.String[])
+numComments=3

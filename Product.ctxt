@@ -1,0 +1,9 @@
+#BlueJ class context
+#Fri Aug 14 09:38:26 IST 2026
+comment0.target=Product
+comment1.params=productId productName price quantity
+comment1.target=Product(int, java.lang.String, double, int)
+comment2.target=void display()
+comment3.params=args
+comment3.target=void main(java.lang.String[])
+numComments=4
